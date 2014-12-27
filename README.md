@@ -10,6 +10,8 @@ See the provided Example project for a live example.
 
 ### Property Definitions
 Here is a quick breakdown of the current properties:
+
+
 `floatingLabel:UILabel`
 *The actual label that will be floated above a textfield*
 

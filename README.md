@@ -6,6 +6,8 @@ For learning Swift, one of the things I did was convert some existing Objective-
 ### Usage
 Usage is pretty simple.   Just add FloatingLabelTextField.swift to your project, and then either set the custom class for a UITextField in Interface Builder to be FloatingLabelTextField, or create it programatically `let textField = FloatingLabelTextField( frame: CGRectMake( 0, 0, 320.0, 44.0 ) )`
 
+See the provided Example project for a live example.
+
 ### Property Definitions
 Here is a quick breakdown of the current properties:
 `floatingLabel:UILabel`

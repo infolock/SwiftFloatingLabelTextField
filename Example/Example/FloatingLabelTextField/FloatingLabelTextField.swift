@@ -1,6 +1,6 @@
 //
 //  FloatingLabelTextField.swift
-//  PitBoss
+//  Example
 //
 //  Created by Jonathon Hibbard on 12/18/14.
 //  Copyright (c) 2014 Integrated Events. All rights reserved.
